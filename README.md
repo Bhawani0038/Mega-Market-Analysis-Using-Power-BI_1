@@ -14,11 +14,11 @@ This project presents a detailed analysis of a fictional retail dataset, focusin
 * **Tools Used:** Power BI, DAX, Data Modeling
 * **Domain:** Retail / Supermarket Chain
 * **Timeline Analyzed:** 1997–1998 Historical Sales & Returns
-* **Suitable For:** LinkedIn / GitHub / Resume Portfolio
+
 
 ---
 
-## 🔧 Data Model Design
+##  Data Model Design
 
 The project utilizes a **Star Schema** consisting of:
 
@@ -41,7 +41,7 @@ The project utilizes a **Star Schema** consisting of:
 
 ---
 
-## 📊 Key Metrics & KPIs
+##  Key Metrics & KPIs
 
 * **Total Customers**: 10,280
 
@@ -79,7 +79,7 @@ The project utilizes a **Star Schema** consisting of:
 
 ---
 
-## 📈 Time Intelligence Insights
+##  Time Intelligence Insights
 
 * Monthly, Quarterly, Yearly sales trends
 * Running totals for customer acquisition
@@ -88,7 +88,7 @@ The project utilizes a **Star Schema** consisting of:
 
 ---
 
-## 📑 Power BI Dashboards
+##  Power BI Dashboards
 
 1. **Customer Demographics**
 2. **Product Performance**
@@ -101,7 +101,7 @@ The project utilizes a **Star Schema** consisting of:
 
 ---
 
-## 💡 Business Insights
+##  Business Insights
 
 * Professional and manual labor customers made the most purchases
 * Bronze members formed the largest segment
@@ -112,7 +112,7 @@ The project utilizes a **Star Schema** consisting of:
 
 ---
 
-## 📷 Dashboard Previews
+##  Dashboard Previews
 
 ### Sales Dashboard
 
@@ -132,14 +132,14 @@ The project utilizes a **Star Schema** consisting of:
 
 ---
 
-## 📄 Additional Files (Optional)
+##  Additional Files (Optional)
 
 * `Data_Dictionary.xlsx` (optional for clarity on columns & tables)
 * `Summary_Report.pdf` (optional executive overview)
 
 ---
 
-## 🔍 Summary for LinkedIn / Resume
+##  Summary 
 
 Built a comprehensive **Retail Market Analysis Dashboard** using Power BI. Designed a clean **star schema** model with transaction, customer, product, store, and region data. Created dynamic **DAX measures** for time intelligence, customer segmentation, and brand-wise sales analysis. Delivered actionable insights into sales trends, return behaviors, and regional product performance.
 **Total Analyzed Sales:** \$1.76M+ | **Customers:** 10K+
