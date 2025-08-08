@@ -16,6 +16,19 @@ This project presents a detailed analysis of a fictional retail dataset, focusin
 * **Timeline Analyzed:** 1997–1998 Historical Sales & Returns
 
 
+
+## Problem Statement
+A large retail chain wants to evaluate its performance across sales regions, store types, customer demographics, and product categories for the years 1997–1998. The goal is to:
+
+Identify high-performing products and underperforming stores
+
+Understand customer segmentation based on income, gender, education, etc.
+
+Track monthly, quarterly, yearly sales trends
+
+Monitor returns by store and product
+
+Provide insights to optimize marketing strategies and inventory planning
 ---
 
 ##  Data Model Design
